@@ -7,6 +7,9 @@
 
 # AEXML
 
+Based on the great AEXML library available here:
+https://github.com/tadija/AEXML
+
 **Swift minion for simple and lightweight XML parsing**
 
 > I made this for personal use, but feel free to use it or contribute.
